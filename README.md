@@ -28,6 +28,6 @@ sap_object.sendKey(vkey=0)
 
 - [Virtual Keys](https://experience.sap.com/files/guidelines/References/nv_fkeys_ref2_e.htm)
 
-- [SAP shortcut](shortcut:https://www.wcupa.edu/_Information/AFA/SAP/Shortcut_Keys.pdf)
+- [SAP shortcut](https://www.wcupa.edu/_Information/AFA/SAP/Shortcut_Keys.pdf)
 
 
